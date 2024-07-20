@@ -1,4 +1,3 @@
-## Olá, me chamo Nicolas e seja bem vindo ao meu perfil! 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=142DF7&random=false&width=435&lines=Ol%C3%A1+Terr%C3%A1queos%2C+me+chamo+Nic!" alt="Typing SVG" /></a>
 
@@ -33,6 +32,6 @@ Para aprimorar meus conhecimentos, estou atualmente desenvolvendo projetos em Fr
  ## :mortar_board: Github Stats
 <div>
   <a href="https://github.com/Nic0987"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nic0211&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0211&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nic0987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0987&layout=compact&langs_count=7&theme=dracula"/>
 </div>
