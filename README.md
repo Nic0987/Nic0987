@@ -12,11 +12,11 @@ Sou uma pessoa cheia de histórias, mas é uma pena que não dá para contar tud
 
 Fiquem à vontade no meu perfil e seja bem vindo ao meu mundo 🌐. <br>
 
-
 <div>
  <a href="https://www.linkedin.com/in/nicolas-ryan-70b6b522b/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br/>
 <div>
   <a href="https://github.com/Nic0987"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nic0987&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -24,16 +24,15 @@ Fiquem à vontade no meu perfil e seja bem vindo ao meu mundo 🌐. <br>
 </div>
 
 
-##
-## 📂 Portfólio:
+## 📂 Portfólio
 - [Caca Sport's](https://github.com/Nic0987/CacaSports)
 - [Gerenciamento de Hospedagens Hoteleiras](https://github.com/Nic0987/gerenciamento-de-hospedagens-hoteleiras)
 - [Cadastro de Vacinas](https://github.com/Nic0987/CadastrodeVacinas)
+  
 <p align="left">
   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2062128696786896581/BE73F98C786D888CFF5EF650F05830A354B4C355/?imw=637&imh=358&ima=fit" alt="Imagem" width="500">
 </p>
 
-##
 ## 💻 Tecnologias 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
