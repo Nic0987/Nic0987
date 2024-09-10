@@ -30,7 +30,7 @@ Fiquem à vontade no meu perfil e seja bem vindo ao meu mundo 🌐. <br>
 - [Cadastro de Vacinas](https://github.com/Nic0987/CadastrodeVacinas)
   
 <p align="left">
-  <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2062128696786896581/BE73F98C786D888CFF5EF650F05830A354B4C355/?imw=637&imh=358&ima=fit" alt="Imagem" width="500">
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif" alt="Imagem">
 </p>
 
 ## 💻 Tecnologias 
