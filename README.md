@@ -7,7 +7,7 @@
 
 Sou Apaixonado por Tecnologia, mas não se engane... Tudo começa com meu primeiro vídeo game em 2011 e continua comigo me mudando para São Paulo no final de 2023 para iniciar minha jornada no mundo da tecnologia. 
 
-Sou uma pessoa cheia de histórias, mas é uma pena que não dá para contar tudo aqui. Mas, vc se interessou? Que tal trocarmos um papo? Me ajude nessa jornada! 
+Sou uma pessoa cheia de histórias, mas é uma pena que não dá para contar tudo aqui. Mas, vc se interessou? Que tal batermos um papo? Me ajude nessa jornada! 
 
 Fiquem à Vontade no Meu Perfil e Sejam Bem Vindos ao Meu Mundo 🌐. <br>
 
