@@ -1,6 +1,39 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=142DF7&random=false&width=435&lines=Ol%C3%A1+Terr%C3%A1queos%2C+me+chamo+Nic!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=770CF7&width=435&lines=Ol%C3%A1+Terr%C3%A1queos%2C+Me+Chamo+Nic!" alt="Typing SVG" /></a>
 
+## ☄️ Sobre Mim 
+  <div>
+  <p> Sou Estudante de Engenharia de Software e Brevemente Serei um Desenvolvedor Front-End! </p>
+</div>
+
+Sou Apaixonado por Tecnologia, mas não se engane... Tudo começa com meu primeiro vídeo game em 2011 e continua comigo me mudando para São Paulo no final de 2023 para iniciar minha jornada no mundo da tecnologia. 
+
+Sou uma pessoa cheia de histórias, mas é uma pena que não dá para contar tudo aqui. Mas, vc se interessou? Que tal trocarmos um papo? Me ajude nessa jornada! 
+
+Fiquem à vontade no meu perfil e seja bem vindo ao meu mundo 🌐. <br>
+
+
+<div>
+ <a href="https://www.linkedin.com/in/nicolas-ryan-70b6b522b/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  <a href="https://github.com/Nic0987"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nic0987&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0987&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+
+##
+## 📂 Portfólio:
+- [Caca Sport's](https://github.com/Nic0987/CacaSports)
+- [Gerenciamento de Hospedagens Hoteleiras](https://github.com/Nic0987/gerenciamento-de-hospedagens-hoteleiras)
+- [Cadastro de Vacinas](https://github.com/Nic0987/CadastrodeVacinas)
+<p align="left">
+  <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2062128696786896581/BE73F98C786D888CFF5EF650F05830A354B4C355/?imw=637&imh=358&ima=fit" alt="Imagem" width="500">
+</p>
+
+##
 ## 💻 Tecnologias 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -17,30 +50,5 @@
 <img src="https://skillicons.dev/icons?i=windows,github,vscode,notion,figma"><a/>
 </div>
 
-##
-## ☄️ Sobre Mim
-
-<div>
-  <p>Estudante de Engenharia de Software em Unicesumar e Futuro Desenvolvedor Front-End!</p>
-</div>
-
-Busco Estágios!<br> 
-Para aprimorar meus conhecimentos, estou atualmente desenvolvendo projetos em Front-End através do curso de Desenvolvimento de Sites e Plataformas Digitais no Senai.<br>
-##
-
- ##  📞 Meus Contatos
-<div>
- <a href="https://www.linkedin.com/in/nicolas-ryan-70b6b522b/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="nicolasryan351@gmail.com/target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-</div>
-
-## 
- ## :mortar_board: Github Stats
-<div>
-  <a href="https://github.com/Nic0987"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nic0987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic0987&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
 
