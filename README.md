@@ -1,4 +1,3 @@
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=770CF7&width=435&lines=Ol%C3%A1+Terr%C3%A1queos%2C+Me+Chamo+Nic!" alt="Typing SVG" /></a>
 
 ## ☄️ Sobre Mim 
