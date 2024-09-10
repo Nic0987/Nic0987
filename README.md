@@ -10,7 +10,7 @@ Sou Apaixonado por Tecnologia, mas não se engane... Tudo começa com meu primei
 
 Sou uma pessoa cheia de histórias, mas é uma pena que não dá para contar tudo aqui. Mas, vc se interessou? Que tal trocarmos um papo? Me ajude nessa jornada! 
 
-Fiquem à vontade no meu perfil e seja bem vindo ao meu mundo 🌐. <br>
+Fiquem à Vontade no Meu Perfil e Sejam Bem Vindos ao Meu Mundo 🌐. <br>
 
 <div>
  <a href="https://www.linkedin.com/in/nicolas-ryan-70b6b522b/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
